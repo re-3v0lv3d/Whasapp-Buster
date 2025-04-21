@@ -8,19 +8,11 @@
 Readme in English: https://github.com/re-3v0lv3d/Whasapp-Buster/blob/main/README_EN.md
 
 
-
+Una herramienta de automatización para WhatsApp que permite enviar mensajes masivos de forma controlada y personalizada.
 
 
 ![Captura de pantalla 2025-04-21 180758](https://github.com/user-attachments/assets/f271f29b-ecc2-4992-9551-5581f7793a30)
 
-
-
-
-
-
-
-
-Una herramienta de automatización para WhatsApp que permite enviar mensajes masivos de forma controlada y personalizada.
 
 ## 🚀 Características
 
