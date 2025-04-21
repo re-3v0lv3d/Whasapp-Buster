@@ -11,7 +11,11 @@ Readme in English: https://github.com/re-3v0lv3d/Whasapp-Buster/blob/main/README
 
 
 
-![Captura de pantalla 2025-04-21 180213](https://github.com/user-attachments/assets/1a10b8c4-8507-4aec-a89b-c0ce129d3cc7)
+![Captura de pantalla 2025-04-21 180758](https://github.com/user-attachments/assets/f271f29b-ecc2-4992-9551-5581f7793a30)
+
+
+
+
 
 
 
