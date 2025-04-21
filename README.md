@@ -4,6 +4,18 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 
+
+Readme in English: https://github.com/re-3v0lv3d/Whasapp-Buster/blob/main/README_EN.md
+
+
+
+
+
+![Captura de pantalla 2025-04-21 180213](https://github.com/user-attachments/assets/1a10b8c4-8507-4aec-a89b-c0ce129d3cc7)
+
+
+
+
 Una herramienta de automatización para WhatsApp que permite enviar mensajes masivos de forma controlada y personalizada.
 
 ## 🚀 Características
