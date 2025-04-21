@@ -4,7 +4,14 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 
+
 An automation tool for WhatsApp that allows controlled and personalized mass messaging.
+
+
+
+![Captura de pantalla 2025-04-21 180807](https://github.com/user-attachments/assets/19be8abc-ac19-4f26-a336-2d58780b6551)
+
+
 
 ## 🚀 Features
 
